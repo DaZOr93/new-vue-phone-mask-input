@@ -1,0 +1,34 @@
+{
+  "name": "new-vue-phone-mask-input",
+  "version": "1.0.3",
+  "description": "Vue International Phone Mask Input",
+  "keywords": [
+    "Vue",
+    "VueJS",
+    "phone",
+    "input",
+    "mask",
+    "phone mask"
+  ],
+  "author": "bohdan999",
+  "license": "MIT",
+  "dependencies": {
+    "libphonenumber-js": "^1.7.13",
+    "visitor-info": "^0.2.1",
+    "vue": "^2.6.6",
+    "vue-country-flag": "^1.1.0",
+    "vue-the-mask": "^0.11.1"
+  },
+  "files": [
+    "src/*",
+    "*.js",
+    "*.json",
+    "*.md"
+  ],
+  "main": "./src/index.js",
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}

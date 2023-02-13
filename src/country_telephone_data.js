@@ -315,7 +315,8 @@ export const allCountries = [
     "United Arab Emirates (‫الإمارات العربية المتحدة‬‎)",
     "ae",
     "971",
-    "+...-.-...-...."
+    "+...-.-...-.....",
+    1
   ],
   ["United Kingdom", "gb", "44", "+.. .... ......"],
   ["United States", "us", "1", "+. (...) ...-....", 0],

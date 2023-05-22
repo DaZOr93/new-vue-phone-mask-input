@@ -105,7 +105,7 @@ export const allCountries = [
   ],
   ["Chad (Tchad)", "td", "235", "+...-..-..-..-.."],
   ["Chile", "cl", "56", "+..-.-....-...."],
-  ["China (中国)", "cn", "86", "+.. ..-........"],
+  ["China (中国)", "cn", "86", "+.. ..-........."],
   ["Christmas Island", "cx", "61", ""],
   ["Cocos (Keeling) Islands", "cc", "61", ""],
   ["Colombia", "co", "57", "+..(...)...-...."],
